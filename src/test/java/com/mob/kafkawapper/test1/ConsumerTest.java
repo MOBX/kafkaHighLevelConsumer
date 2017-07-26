@@ -1,3 +1,6 @@
+/*
+ * Copyright 2017-2020 mob.com All right reserved.
+ */
 package com.mob.kafkawapper.test1;
 
 import java.util.concurrent.atomic.AtomicInteger;

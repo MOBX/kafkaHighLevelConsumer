@@ -1,5 +1,5 @@
 /*
- * Copyright 2015-2020 uuzu.com All right reserved.
+ * Copyright 2017-2020 mob.com All right reserved.
  */
 package com.mob.kafkawapper.topic;
 

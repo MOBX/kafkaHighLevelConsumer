@@ -1,3 +1,6 @@
+/*
+ * Copyright 2017-2020 mob.com All right reserved.
+ */
 package com.mob.kafkawapper.topic;
 
 import org.junit.Test;
